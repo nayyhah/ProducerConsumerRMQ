@@ -1,0 +1,17 @@
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\bin\Debug\net6.0\Producer.exe
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\bin\Debug\net6.0\Producer.deps.json
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\bin\Debug\net6.0\Producer.runtimeconfig.json
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\bin\Debug\net6.0\Producer.dll
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\bin\Debug\net6.0\Producer.pdb
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\Producer.csproj.AssemblyReference.cache
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\Producer.AssemblyInfoInputs.cache
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\Producer.AssemblyInfo.cs
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\Producer.csproj.CopyComplete
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\Producer.dll
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\refint\Producer.dll
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\Producer.pdb
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\Producer.genruntimeconfig.cache
+C:\Users\Neha_Jha\source\repos\ProducerConsumerRabbitMQ\Producer\obj\Debug\net6.0\ref\Producer.dll

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Js6JtE8d3icLiT7Be8GMRri+0S+xhnoodKsQo3GllZ/9LuCmR3imvB9ItDwkOgqCD/Q0EV/kd0gcgGbHbN4BKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neha_Jha\\source\\repos\\ProducerConsumerRMQ\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neha_Jha\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Neha_Jha\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Neha_Jha\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Neha_Jha\\source\\repos\\ProducerConsumerRMQ\\Producer\\Producer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Neha_Jha\\source\\repos\\ProducerConsumerRMQ\\Producer\\Producer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neha_Jha\\source\\repos\\ProducerConsumerRMQ\\Producer\\Producer.csproj",
+        "projectName": "Producer",
+        "projectPath": "C:\\Users\\Neha_Jha\\source\\repos\\ProducerConsumerRMQ\\Producer\\Producer.csproj",
+        "packagesPath": "C:\\Users\\Neha_Jha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neha_Jha\\source\\repos\\ProducerConsumerRMQ\\Producer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neha_Jha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.dell.com/artifactory/api/nuget/esupp-32540-nuget-prd-virtual": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
